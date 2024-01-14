@@ -12,27 +12,19 @@
 
 .sumbar {
  background-color:black;
- text-align: right;
  color:white;
  padding-inline-start: 0%;
- padding:15px;
- font-size: 32px;
+ padding:15px 30px;
 }
 
 .symbol {
   background-color: orange;
   padding-inline-start: 0%;
   color:white;
-  padding:15px 25px;
+  padding:15px 32px;
 }
 .button {
   background-color:lightgray;
   padding-inline-start: 0%;
-  padding:15px 30px;
-}
-.buttonzero {
-  padding: 15px 105px;
-}
-.clear {
-  padding: 15px 60px;
+  padding:15px 50px;
 }

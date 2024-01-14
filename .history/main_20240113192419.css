@@ -1,0 +1,25 @@
+ 
+ .wrapper {
+  display: grid;
+  flex-wrap: wrap;
+  flex-direction: row;
+  background-color:black;
+  justify-content: center;
+  width: 400px;
+  height: 400px;
+ }
+
+
+.sumbar {
+ background-color:white;
+}
+
+.symbol {
+  background-color: orange;
+  color:white;
+}
+.button {
+  background-color:lightgray;
+  size-adjust:inherit;
+}
+.buttonrow1 {}
