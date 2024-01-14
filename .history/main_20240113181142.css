@@ -1,0 +1,17 @@
+
+ 
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  background-color:black;
+  justify-content: center;
+  
+}
+
+.sumbar {
+ background-color:white;
+}
+
+.symbol {
+  background-color: orange;
+}

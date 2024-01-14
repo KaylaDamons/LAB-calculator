@@ -1,0 +1,24 @@
+ 
+ .wrapper {
+  display:grid;
+  width: 200px;
+  background-color:black;
+  justify-content: center;
+
+ }
+
+
+.sumbar {
+ background-color:white;
+}
+
+.symbol {
+  background-color: orange;
+  color:white;
+}
+.button {
+  background-color:lightgray;
+}
+.buttonrow1 {
+  align-items: self-end;
+}

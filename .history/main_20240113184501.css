@@ -1,0 +1,21 @@
+
+ body {
+  background-color:black;
+ }
+ .wrapper {
+  display: grid;
+  flex-wrap: wrap;
+ }
+
+
+.sumbar {
+ background-color:white;
+}
+
+.symbol {
+  background-color: orange;
+  color:white;
+}
+.button {
+  background-color:lightgray;
+}

@@ -1,0 +1,16 @@
+
+ 
+.wrapper {
+  display: flex;
+  background-color:black;
+  justify-content: center;
+  
+}
+
+.sumbar {
+ background-color:white;
+}
+
+.symbol {
+  background-color: orange;
+}

@@ -1,0 +1,19 @@
+body {
+  background-color:black;
+}
+ 
+.wrapper {
+  display: flex;
+  background-color:black;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 100px;
+  padding-left: 75px;
+  padding-bottom: 100px;
+  padding-right: 100px;
+  width: 100%;
+}
+
+.sumbar {
+ background-color:white;
+}
